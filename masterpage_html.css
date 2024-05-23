@@ -1,0 +1,74 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#menu_237cf6ab a { text-decoration: none; }
+#menu_237cf6ab_pane { background-color: #FFFFFF; border: 1px solid #FFFFFF; padding-top: 10px; padding-bottom: 10px; box-shadow: 2px 2px 6px 0px rgba(8, 8, 8, 0.784314); }
+#menu_237cf6ab_hr { background-color: #FFFFFF; height: 1px; border: none; }
+#menu_237cf6ab_entry { padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; }
+#menu_237cf6ab_entry:hover { background-color: #323232; color: #FFFFFF !important; }
+#menu_237cf6ab_entry:hover span { color:#FFFFFF !important; }
+		.menu_237cf6ab_mainMenuEntry { text-align: center; }
+		.menu_237cf6ab_mainMenuEntry:hover {	background-color:#D4213A; }
+		.menu_237cf6ab_mainMenuEntry:hover span {	color:#FFFFFF !important; }
+		#menu_237cf6ab .mobileEntry { display: none; } 
+		#menu_237cf6ab .normalEntry { display: block; } 
+		#menu_237cf6ab_menualignmentwrapper{ width:353px; left: calc(100% - 353px);  } 
+		@media only screen and (max-width:650px) { 
+			#menu_237cf6ab .mobileEntry { display: block; } 
+			#menu_237cf6ab .normalEntry { display: none; } 
+			#menu_237cf6ab_menualignmentwrapper { width:36px; left: calc(100% - 36px);  } 
+		}
+body { background-color:#C0C0CC; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+#container_41b54f75 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background:none;  }
+.textstyle2 { text-align:left; }
+#container_8294f55 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:63px; background-color:#FFFFFF;  }
+#container_8294f55_padding { margin: 10px; display: block;  }
+#container_465fee16 { vertical-align: top; position:relative; display: inline-block; width:35%; min-height:60px; background:none;  }
+#container_465fee16_padding { margin: 10px; display: block;  }
+#button_48b5813c { vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; margin:0px 0px 0px 20px;height:40px; background:none;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+#img_10bc54f8 { position:absolute; left:0%; top:2%; width:10%; background:none; height:auto;  }
+#container_300642e8 { vertical-align: top; position:relative; display: inline-block; width:65%; min-height:60px; background:none;  }
+#container_300642e8_padding { margin: 10px; display: block;  }
+.textstyle3 { text-align:right; }
+#menu_237cf6ab { vertical-align: bottom; position:relative; display: inline-block; width:418px; height:38px; text-align:left; background:none;  }
+#menu_237cf6ab_menualignmentwrapper { position: relative; overflow: visible; height: 100%; }
+.menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
+.menustyle1 { position:absolute; width:36px; height:38px; left:0px;  }
+.menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:32px;  }
+.textstyle4 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.menustyle2 { position:absolute; width:77px; height:38px; left:0px;  }
+.menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:18px;  }
+.textstyle5 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#D4213A; font-weight:bold;  white-space: nowrap; }
+.textstyle6 { font-size:10pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#D4213A; font-weight:bold;  white-space: nowrap; }
+.menustyle3 { position:absolute; width:129px; height:38px; left:77px;  }
+.menustyle4 { position:absolute; width:94px; height:38px; left:206px;  }
+.menustyle5 { position:absolute; width:53px; height:38px; left:300px;  }
+.textstyle7 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#656565; font-weight:bold;  white-space: nowrap; }
+#img_4ab79b8 { position:absolute; left:44%; top:32%; width:3%; background:none; height:auto;  }
+#container_4661cd82 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:406px; background-color:#FFFFFF; background-image: url(rc_images/shutterstock_687049846.jpg); background-position:center left; background-size:cover;  }
+#container_4661cd82_padding { margin: 10px; display: block;  }
+.textstyle8 { font-size:26pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.196078);  }
+.textstyle9 { font-size:26pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.196078);  }
+#container_52758fb0 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#FFFFFF;  }
+#container_52758fb0_padding { margin: 10px; display: block;  }
+.textstyle10 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#9E9E9E;  }
+.textstyle11 { font-size:36pt; font-family:'Arial Black', Gadget, sans-serif; color:#9E9E9E;  }
+#container_26caea54 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#F3F3F5;  }
+#container_26caea54_padding { margin: 10px; display: block;  }
+#container_6779c72 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:800px; background:none;  }
+#container_6779c72_padding { margin: 10px; display: block;  }
+.textstyle12 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#4F4F4F; line-height: 1.5;  }
+.textstyle13 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#4F4F4F; font-weight:bold; line-height: 1.5;  }
+#anchor_1a1378e9 { vertical-align: bottom; position:relative; display: inline-block;  }
+@media only screen and (max-width: 650px)
+{
+		#menu_237cf6ab { width:150px;  }
+}
+@media only screen and (max-width: 640px)
+{
+		#button_48b5813c * span { font-size:12pt;  }
+}
